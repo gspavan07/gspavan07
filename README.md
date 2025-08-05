@@ -7,7 +7,7 @@
     alt="gspavan07"
   />
 </p>
-- 📫 How to reach me <a herf="mailto:dev.pavangollapalli@gmail.com">dev.pavangollapalli@gmail.com</a>
+- 📫 How to reach me <a href="mailto:dev.pavangollapalli@gmail.com"><b>dev.pavangollapalli@gmail.com</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
