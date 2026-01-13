@@ -61,10 +61,10 @@
 
 ## 💬 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shanmukpavan-gollapalli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://pavangollapalli.me"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 ---
 
-⭐️ Built with ❤️ by [Pavan](https://github.com/gspavan07)
+⭐️ Built with ❤️ by [Pavan Gollapalli](https://github.com/gspavan07)
